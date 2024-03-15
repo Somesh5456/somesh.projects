@@ -2,7 +2,7 @@
 
 **Introduction :**
 The Library Management System (LMS) is designed to efficiently handle library records, minimizing administrative tasks for librarians. Core functionalities include adding, removing, and viewing the status of books.
-**
+
 **Features :**
 1. User-Friendly Interface: The system offers a user-friendly interface, facilitating easy management by librarians.
 2. Book Management: Librarians can add new books, remove issued books, and display book details through distinct classes.
